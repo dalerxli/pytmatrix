@@ -1,0 +1,1 @@
+Project documentation [has been moved to GitHub](https://github.com/jleinonen/pytmatrix/wiki).
